@@ -2,7 +2,7 @@
 
 You are looking into my profile, feel free to connect me in Github.
 
-Kind of regards,
+Kind of regards,<br>
 Edward
 
 <!--
